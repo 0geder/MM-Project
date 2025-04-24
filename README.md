@@ -25,4 +25,5 @@ The Power Subsystem forms the heart of the Micro-mouse robot, supplying regulate
 ---
 
 ## 📁 Repository Structure
-
+- `/hardware/kicad/` – Full KiCad project files (`.kicad_pro`, `.kicad_sch`, `.kicad_pcb`, etc.)
+- `/hardware/production_files/` – Gerbers, BOM, CPL files for JLCPCB submission
